@@ -1,0 +1,35 @@
+# Node.js
+node_modules/
+
+# Environment variables
+.env
+
+# Log files
+logs/
+*.log
+
+# Dependency directories
+vendor/
+packages/
+
+# Compiled files
+dist/
+build/
+*.exe
+*.o
+*.obj
+
+# Database files
+*.sqlite
+*.db
+
+# IDE/editor specific files
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Ignore .env file
+.env
